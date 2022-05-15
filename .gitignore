@@ -1,0 +1,6 @@
+src/static/
+static.zip
+.idea
+.code
+venv
+__pycache__
